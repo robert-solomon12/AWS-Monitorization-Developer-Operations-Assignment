@@ -4,6 +4,9 @@ server will run on an EC2 instance and display some static content that is store
 program that does this must be called run_newwebserver.py and you can simply download this repository and running the 'run_newwebserver.py'
 script. To run this program, you must have boto installed and your keys properly configured in your .boto file in the home folder. 
 
+<img src="IMG/Devops.png" width="900">
+
+
 # Important Notes:
 - This program already consists of a private key hardcoded throughout the entirely script already which you will find in the repository under 'RSolomon1912' which means that you don't need to worry about creating your own key.
 
@@ -11,7 +14,7 @@ script. To run this program, you must have boto installed and your keys properly
 
 
 
-<img src="IMG/Devops.png" width="900">
+
 
 
 
