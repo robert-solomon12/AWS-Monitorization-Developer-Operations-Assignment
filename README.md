@@ -5,7 +5,7 @@ program that does this must be called run_newwebserver.py and you can simply dow
 script. To run this program, you must have boto installed and your keys properly configured in your .boto file in the home folder. 
 
 # Important Notes:
-- This program already consists of a private key hardcoded thrpughout the entirely script already which you will find in the repository under 'RSolomon1912' which means that you don't need to worry about creating your own key.
+- This program already consists of a private key hardcoded throughout the entirely script already which you will find in the repository under 'RSolomon1912' which means that you don't need to worry about creating your own key.
 
 - Further updates may be pushed up over time for impovements and/or better maintenance of the program.
 
