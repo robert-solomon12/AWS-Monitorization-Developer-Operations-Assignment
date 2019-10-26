@@ -1,5 +1,5 @@
 # Developer-Operations-Assignment_1
-This assignment was completed in my 3rd year for my first assignment in Developer Operations. The overall objective of this assignment is to automate using Python 3 the process of creating, launching and monitoring a public-facing web server in the Amazon cloud. The web
+This was my first Assignment in Developer Operations and it was completed in my 3rd year. The overall objective of this Assignment is to automate using Python 3 the process of creating, launching and monitoring a public-facing web server in the Amazon cloud. The web
 server will run on an EC2 instance and display some static content that is stored in S3. The
 program that does this must be called run_newwebserver.py
 
