@@ -9,21 +9,3 @@ script. To run this program, you must have boto installed and your keys properly
 
 # Important Notes:
 - This program already consists of a private key hardcoded throughout the entirely script already which you will find in the repository under 'RSolomon1912'.pem file which means that you don't need to worry about creating your own key.
-
-- Further updates may be pushed up over time for impovements and/or better maintenance of the program.
-
-
-
-
-
-
-
-
-#=========================================================================#
-#=========================================================================#
-<br> Should you have any problems, don't hesitate to contact me on my email at:</br>
-[20079462@mail.wit.ie](mailto:20079462@mail.wit.ie)
-<br>or if you find a bug </br>[open up an issue here](https://github.com/EazyRob97/https://github.com/robertsolomon97/Developer-Operations-Assignment_1/issues)
-
-
-# Enjoy!
